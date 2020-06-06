@@ -1,98 +1,98 @@
  {   
-    "name": "Kristine's Compendium Pack",   
-    "title": "Kristine's Compendium Pack",   
-    "description": "Kristine's Homebrew Compendium Pack",   
+    "name": "Ayoub's Compendium Pack",   
+    "title": "Ayoub's Compendium Pack",   
+    "description": "Ayoub's Homebrew Compendium Pack",   
     "author": "AXGM",
     "version": "1.0.0",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion":"0.6.1",
-    "url": "https://github.com/AXGM/Kristine-s-Compendium-Pack",
-    "manifest": "https://raw.githubusercontent.com/AXGM/Kristine-s-Compendium-Pack/master/Kristine's%20Compendium%20Pack/module.json",
-    "download": "https://github.com/AXGM/Kristine-s-Compendium-Pack/archive/master.zip",
+    "compatibleCoreVersion":"0.6.0",
+    "url": "ttps://github.com/AXGM/Ayoub-s-Compendium-Pack",
+    "manifest": "https://raw.githubusercontent.com/AXGM/Ayoub-s-Compendium-Pack/master/Ayoub's%20Compendium%20Pack/module.json",
+    "download": "https://github.com/AXGM/Ayoub-s-Compendium-Pack/archive/master.zip",
     "packs": [
     {
-      "name": "kclasses",
-      "label": "Kristine's Classes",
-      "path": "packs/kclasses.db",
+      "name": "ayclasses",
+      "label": "Ayoub's Classes",
+      "path": "packs/ayclasses.db",
       "entity": "Item",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kcreatures",
-      "label": "Kristine's Creatues",
-      "path": "packs/kcreatures.db",
+      "name": "aycreatures",
+      "label": "Ayoub's Creatues",
+      "path": "packs/aycreatures.db",
       "entity": "Actor",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kfeatures",
-      "label": "Kristine's Features",
-      "path": "packs/kfeatures.db",
+      "name": "ayfeatures",
+      "label": "Ayoub's Features",
+      "path": "packs/ayfeatures.db",
       "entity": "Item",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kloreandbackgrounds",
-      "label": "Kristine's Lore and Background Info",
-      "path": "packs/kloreandbackgrounds.db",
+      "name": "ayloreandbackgrounds",
+      "label": "Ayoub's Lore and Background Info",
+      "path": "packs/ayloreandbackgrounds.db",
       "entity": "JournalEntry",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kmacros",
-      "label": "Kristine's Macros",
-      "path": "packs/kmacros.db",
+      "name": "aymacros",
+      "label": "Ayoub's Macros",
+      "path": "packs/aymacros.db",
       "entity": "Macro",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kmagicitems",
-      "label": "Kristine's Magic Items",
-      "path": "packs/kmagicitems.db",
+      "name": "aymagicitems",
+      "label": "Ayoub's Magic Items",
+      "path": "packs/aymagicitems.db",
       "entity": "Item",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "knpcs",
-      "label": "Kristine's NPCs",
-      "path": "packs/knpcs.db",
+      "name": "aynpcs",
+      "label": "Ayoub's NPCs",
+      "path": "packs/aynpcs.db",
       "entity": "Actors",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kplaylists",
-      "label": "Kristine's Playlists",
-      "path": "packs/kplaylists.db",
+      "name": "ayplaylists",
+      "label": "Ayoub's Playlists",
+      "path": "packs/ayplaylists.db",
       "entity": "Playlist",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kraces",
-      "label": "Kristine's Races",
-      "path": "packs/kraces.db",
+      "name": "ayraces",
+      "label": "Ayoub's Races",
+      "path": "packs/ayraces.db",
       "entity": "Actor",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "krolltables",
-      "label": "Kristine's Roll Tables",
-      "path": "packs/krolltables.db",
+      "name": "ayrolltables",
+      "label": "Ayoub's Roll Tables",
+      "path": "packs/ayrolltables.db",
       "entity": "RollTable",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kscenes",
-      "label": "Kristine's Scenes",
-      "path": "packs/kscenes.db",
+      "name": "ayscenes",
+      "label": "Ayoub's Scenes",
+      "path": "packs/ayscenes.db",
       "entity": "Scene",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     },
     {
-      "name": "kspells",
-      "label": "Kristine's Spells",
-      "path": "packs/kspells.db",
+      "name": "ayspells",
+      "label": "Ayoub's Spells",
+      "path": "packs/ayspells.db",
       "entity": "Item",
-      "module": "Kristine's Compendium Pack"
+      "module": "Ayoub's Compendium Pack"
     }  
   ]
  }
