@@ -56,7 +56,7 @@
       "name": "aynpcs",
       "label": "Ayoub's NPCs",
       "path": "packs/aynpcs.db",
-      "entity": "Actors",
+      "entity": "Actor",
       "module": "Ayoub's Compendium Pack"
     },
     {
